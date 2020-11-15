@@ -1,3 +1,2 @@
-This is basically me doing a code along for a portfolio website project i found online. 
+Test Website. 
 
-Take it easy with the criticism...please
